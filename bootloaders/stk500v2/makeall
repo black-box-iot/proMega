@@ -1,0 +1,32 @@
+#!/bin/bash
+
+make atmega2560_20mhz_115200
+make clean
+make atmega2560_18_432mhz_115200
+make clean
+make atmega2560_16mhz_115200
+make clean
+make atmega2560_14_7456mhz_115200
+make clean
+make atmega2560_12mhz_115200
+make clean
+make atmega2560_11_0592mhz_115200
+make clean
+make atmega2560_8mhz_57600
+make clean
+make atmega2560_8mhz_38400
+make clean
+make atmega2560_8mhz_9600
+make clean
+make atmega2560_7_3728mhz_115200
+make clean
+make atmega2560_4mhz_9600
+make clean
+make atmega2560_3_6864mhz_115200
+make clean
+make atmega2560_2mhz_9600
+make clean
+make atmega2560_1_8432mhz_115200
+make clean
+make atmega2560_1mhz_9600
+make clean
